@@ -86,6 +86,11 @@ git config user.email
 
 If all three answer, you're ready to create repositories and open pull requests.
 
+## Day-to-day workflow
+
+Setup happens once. The branch → commit → push → pull request → merge cycle is what you
+repeat for every change after that: [docs/pr-workflow.md](docs/pr-workflow.md)
+
 ## Troubleshooting
 
 Errors encountered during this setup, and what they actually meant:
